@@ -13,7 +13,7 @@ int main(void)
 	while(1){
 		if(!(PINC & (1<<PINC2))){	// if pinC is low loop 
 			PORTB &= ~(1<<2);		// turn LED on
-			_delay_ms(1250);		// delay 1.25 sec
+			_delay_ms(1333);		// delay 1.333 sec
 		}
 		else{						// else pinC is high
 			PORTB |= (1<<2);		// turn LED off
