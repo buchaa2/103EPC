@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328PB"</DEVICE>
+ <WORKING_DIR>C:\Users\bugul\Desktop\AT MEAL\DA2B\DA2B\DA2B\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\bugul\Desktop\AT MEAL\DA2B\DA2B\DA2B\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328PBdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\bugul\Desktop\AT MEAL\DA2B\DA2B\DA2B\Debug\DA2B.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DA2B.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DA2B.map</FILE>
+  <FILE>DA2B.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <MAIN><FILE>C:\Users\bugul\Desktop\AT MEAL\DA2B\DA2B\DA2B\main.asm</FILE><LINE>15</LINE></MAIN>
+  <EXT_INT><FILE>C:\Users\bugul\Desktop\AT MEAL\DA2B\DA2B\DA2B\main.asm</FILE><LINE>65</LINE></EXT_INT>
+  <WHILE><FILE>C:\Users\bugul\Desktop\AT MEAL\DA2B\DA2B\DA2B\main.asm</FILE><LINE>33</LINE></WHILE>
+  <L1><FILE>C:\Users\bugul\Desktop\AT MEAL\DA2B\DA2B\DA2B\main.asm</FILE><LINE>42</LINE></L1>
+  <L2><FILE>C:\Users\bugul\Desktop\AT MEAL\DA2B\DA2B\DA2B\main.asm</FILE><LINE>55</LINE></L2>
+  <L3><FILE>C:\Users\bugul\Desktop\AT MEAL\DA2B\DA2B\DA2B\main.asm</FILE><LINE>75</LINE></L3>
+ </LABELS>
+</ASSEMBLER_INFO>
